@@ -9,3 +9,10 @@ the main thing is that the format of the email will be preserved and the passwor
 After entering the courier will check the shipments in his area by longitude and latitude and check that the shipment is within 1 range of the courier's location.
 You can take an item, update that the package was sent and see the entire history of the courier and the details sent by him.
 The second application is built in MVVM architecture 
+
+## Demonstration
+
+![alt text](https://github.com/davidcoh464/Orders-and-shipments/blob/main/images/img1_app1.png)
+
+
+![alt text](https://github.com/davidcoh464/Orders-and-shipments/blob/main/images/img3_app2.png)
